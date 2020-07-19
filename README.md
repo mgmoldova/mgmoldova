@@ -1,4 +1,4 @@
-<img align="right" height="150px" width="250px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
+<img align="right" height="150px" width="250px" alt="GIF" src="https://next.lonagi.pw/s/LYiz4gWwMBf5H7T/download" />
 
 ### Top Programmer 💎
 ### Data Scientist 🐍
