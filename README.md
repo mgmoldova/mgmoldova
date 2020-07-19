@@ -1,3 +1,5 @@
+<img align="right" height="150px" width="250px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
+
 ### Top Programmer 💎
 ### Data Scientist 🐍
 ### Game Developer 🎮
