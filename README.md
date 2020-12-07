@@ -1,5 +1,5 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://github.com/lonagi/lonagi/blob/master/1.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -34,17 +34,17 @@
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/jquery.png" alt="jQuery" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/latex.png" alt="Latex" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/xaml.png" alt="XAML" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/jquery.png" alt="jQuery" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/latex.png" alt="Latex" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/xaml.png" alt="XAML" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/sass-original.svg" alt="Sass" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -53,20 +53,20 @@
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/django-original.svg" alt="Django" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/keras.png" alt="Keras" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/unity.png" alt="Unity" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/arduino.png" alt="Arduino" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/django-original.svg" alt="Django" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/keras.png" alt="Keras" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/c-original.svg" alt="C" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/unity.png" alt="Unity" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/arduino.png" alt="Arduino" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/php-original.svg" alt="PHP" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -75,10 +75,10 @@
 
 ### DevOps  
 <div align="center">  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
+<img style="margin: 10px" src="https://github.com/lonagi/lonagi/blob/master/res/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
 
 </td></tr></table>  
