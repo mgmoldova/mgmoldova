@@ -119,5 +119,5 @@
 <br/>  
 
 <div align="center">
-<img src="https://api.lonagi.pw/github_counter.php?.svg" align="center" />
+<img src="https://api.lonagi.pw/github_counter/" align="center" />
 </div>  
