@@ -119,5 +119,5 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=lonagi&&style=flat-square" align="center" />
+<img src="https://api.lonagi.pw/github_counter.php" align="center" />
 </div>  
