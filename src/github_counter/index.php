@@ -35,5 +35,6 @@ $v=R::findOne("visitors","wsite = ?",["github"])->value;
         <text x="41.5" y="14">Profile views</text>
         <text x="101.5" y="15" fill="#010101" fill-opacity=".3"><?=$v;?></text>
         <text x="101.5" y="14"><?=$v;?></text>
+        <text fill="#007ec6" x="1010" y="140"><?=time();?></text>
     </g>
 </svg>
