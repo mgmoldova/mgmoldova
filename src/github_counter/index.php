@@ -6,7 +6,6 @@ header('Cache-Control: max-age=0, no-cache, no-store, must-revalidate');
 require '../db_lonagi.php';
 require '../nvg-data.php';
 R::selectDatabase("stati");
-$cccc = new nvgData("stati","ips",'ip',"github",6,1,1);
 $cccc2 = new nvgCount("stati","visitors","github");
 $cccc2->enableLangC("langs");
 $cccc2->Count();
