@@ -51,30 +51,6 @@ class nvgCount
 			}
 		}
 
-		for($i = 0; $i < count($this->counter_ignore_agents); $i++)
-		{
-			if(substr_count(strtolower($counter_agent),strtolower($this->counter_ignore_agents[$i])))
-			{
-				$ignore = true;
-				break;
-			}
-		}
-
-		if(!$ignore)
-		{
-			$url = 'https://api.nvg-group.com/botIp.php?list';
-			$curl = curl_init($url);
-		    curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
-		    curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
-		    curl_setopt($curl, CURLOPT_POST, true);
-		    curl_setopt($curl, CURLOPT_TIMEOUT, 2);
-		    $res = curl_exec($curl);
-		    curl_close($curl);
-
-			if(in_array($counter_ip, json_decode($res)))
-				$ignore = true;
-		}
-
 		if(!$ignore and $this->stricter)
 		{
 			$res = shell_exec("host ".$counter_ip);
@@ -198,16 +174,6 @@ class nvgData
 		$myip = (isset($_SERVER['REMOTE_ADDR'])) ? $_SERVER['REMOTE_ADDR'] : 'console';
 		$counter_agent = (isset($_SERVER['HTTP_USER_AGENT'])) ? $_SERVER['HTTP_USER_AGENT'] : 'bot';
 		$ignore = false;
-
-		for($i = 0; $i < count(counter_ignore_agents); $i++)
-		{
-			if(substr_count(strtolower($counter_agent),strtolower(counter_ignore_agents[$i])))
-			{
-				$ignore = true;
-				break;
-			}
-		}
-
 		$res = shell_exec("host ".$myip);
 
 		for($i = 0; $i < count(blockOrgs); $i++)
