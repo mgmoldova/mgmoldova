@@ -6,15 +6,12 @@ header('Cache-Control: max-age=0, no-cache, no-store, must-revalidate');
 require '../db_lonagi.php';
 require '../nvg-data.php';
 R::selectDatabase("stati");
-
-if($_SERVER['HTTP_HOST']!="localhost") {
-    $cccc = new nvgData("stati","ips",'ip',"github",6,1,1);
-    $cccc2 = new nvgCount("stati","visitors","github");
-    $cccc2->enableLangC("langs");
-    $cccc2->Count();
-}
+$cccc = new nvgData("stati","ips",'ip',"github",6,1,1);
+$cccc2 = new nvgCount("stati","visitors","github");
+$cccc2->enableLangC("langs");
+$cccc2->Count();
 R::selectDatabase("stati");
-$v=R::findOne("visitors","wsite = ?",["github"])->value;
+$v=@R::findOne("visitors","wsite = ?",["github"])->value;
 ?>
 
 <svg xmlns="http://www.w3.org/2000/svg" width="140" height="20">
