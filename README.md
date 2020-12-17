@@ -120,4 +120,6 @@
 
 <div align="center">
 <img src="https://api.lonagi.pw/github_counter/?3" align="center" />
-</div>  
+</div>   
+
+![](https://komarev.com/ghpvc/?username=lonagi&color=blueviolet&label=Profile%20views%20from%2017.12.2020)
