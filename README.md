@@ -3,24 +3,19 @@
 </div>  
   
 
-### <div align="center">I'm Sasha, a developer working in IT since 2012 🚀</div>  
+### <div align="center">I'm mgmoldova, a developer working in IT since 2008 🚀</div>  
   
 
-- 🚁 I’m currently working on [New Vektor Group](https://github.com/New-Vektor-Group)  
+- 🚁 I’m currently working on Artificial Inteligence Project  
   
 
 - 🧪 I’m currently learning Neuroscience (Neurobiology) and UAS Science  
   
 
 - 🎮 I'm Game Developer  
-  
-
-- 🚀 I participate in Startups  
-  
 
 - I Play 🃏Poker, ♟️Chess and 🔫Airsoft  
   
-
 - I use Data Science 🐍 everywhere  
   
 
